@@ -12,7 +12,8 @@
     ],
     "public": true,
     "dependencies": {
-        "core": "file:../core"
+        "core": "file:../core",
+        "game": "file:../game"
     },
     "yotta": {
         "config": {
